@@ -1,0 +1,22 @@
+paramName:
+
+EnvironmentName:
+  Description: Type the name of environment
+  Type: String
+
+InstanceType:
+  Description: Type the  name of instance Type
+  Type: String
+  default: t2.micro
+
+VPC:
+  Description: 
+  Type: AWS::EC2::VPC::Id
+  default: "vpc-0a7b24392a2da85c9"
+
+clustername:
+  Description:
+  Type: String
+
+
+  

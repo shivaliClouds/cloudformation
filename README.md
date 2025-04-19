@@ -1,1 +1,4 @@
 # cloudformation
+
+This project sets up an Amazon ECS Cluster backed by EC2 instances using AWS CloudFormation. It automates the infrastructure creation, including networking, auto-scaling, IAM roles, task definitions, and ECS services.
+
